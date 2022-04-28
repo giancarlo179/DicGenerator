@@ -2,9 +2,11 @@
 
 #######################################################################
 # Fichero:                      sgen.pl
-# Fecha:			09-02-2011
+# Fecha Creacion:		09-02-2011
+# Fecha Modificacion:		28/04/2022
 # Version			1.3
 # Autor:                        |FluiD| (migue_lin@msn.com)
+# Modificado:			|Astetrix|Giancarlo Pasquale Bellido
 # Descripcion:			Generador de diccionarios.
 #
 # Este programa es software libre; puedes redistribuirlo y/o modificarlo
